@@ -1,6 +1,6 @@
 # About
 
-![[remnants.avif]]
+![Short demonstration video](remnants.avif)
 
 This is a simple app written in Blazor which edits the registry. The scope of the project had to be limited due to time constraints.
 
